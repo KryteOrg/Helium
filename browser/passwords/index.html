@@ -1,6 +1,6 @@
 <html>
 	<head>
-		<title>Start</title>
+		<title>Passwords</title>
 		<link href="https://fonts.googleapis.com/earlyaccess/jejugothic.css" rel="stylesheet" type="text/css">
 		<style>
 			* {
@@ -30,20 +30,23 @@
 		</style>
 	</head>
 	<body>
+		<script>
+			function add() {
+				prompt("Please write down the domain","www.example.com")
+				prompt("Please write down the password","123456")
+			}
+		</script>
 		<div class="center">
 			<img src="logo.png">
 			<br \>
-			<form action="https://duckduckgo.com/" action="GET">
-				<input name="q" class="search" placeholder="DuckDuckGo search...">
-			</form>
+			<input name="q" placeholder="Search your passwords..." class="search">
 			<hr>
-			<h2>Extensions</h1>
-			<select id="par" size=6>
-				
-			</select>
+			<!--button onclick="add()" class="button">Add</button>
+			<button class="button">Remove</button>-->
 			<br><br>
-			<button class="button">Download extensions</button>
+			<div>
+				<a>In development</a><br>
+			</div>
 		</div>
-		<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.1.0/jquery.min.js"></script>
 	</body>
 </html>
