@@ -2,4 +2,5 @@
 # Light and fast web browser
 Fully writen in Python with PyQt5
 # Features
-None yet
+- Tabs
+- Extensions
