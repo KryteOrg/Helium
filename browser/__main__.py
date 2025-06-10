@@ -1,11 +1,11 @@
 import sys
-from PyQt6.QtCore import *
+from PySide6.QtCore import *
 from PySide6.QtCore import QEvent, QByteArray
-from PyQt6.QtWidgets import *
-from PyQt6.QtWebEngineWidgets import *
-from PyQt6.QtWebEngineCore import QWebEngineProfile, QWebEnginePage, QWebEngineUrlRequestInterceptor
-from PyQt6 import QtWidgets, QtGui
-from PyQt6.QtNetwork import QNetworkCookie
+from PySide6.QtWidgets import *
+from PySide6.QtWebEngineWidgets import *
+from PySide6.QtWebEngineCore import QWebEngineProfile, QWebEnginePage, QWebEngineUrlRequestInterceptor
+from PySide6 import QtWidgets, QtGui
+from PySide6.QtNetwork import QNetworkCookie
 import os
 import glob
 import sys
