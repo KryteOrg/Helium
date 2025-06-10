@@ -1,4 +1,4 @@
-![Helium](./browser/start/logo.png)
+![Helium](./logo.png)
 # Light and fast web browser
 Fully writen in Python with PyQt6
 > [!WARNING]
