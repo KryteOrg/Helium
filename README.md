@@ -1,4 +1,4 @@
-![Helium](./logo.png)
+<span style="background-color: #FFFFFF">![Helium](./logo.png)</span>
 # Light and fast web browser
 Fully writen in Python with PyQt6
 > [!WARNING]
