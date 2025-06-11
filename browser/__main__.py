@@ -30,7 +30,7 @@ home = ""
 if os.name == "posix":
     home = str(pathlib.Path.home())
 elif os.name == "nt":
-    home = str(pathlib.Path(os.environ["USERPROFILE"]) + "Documents")
+    home = str(pathlib.Path(os.environ["USERPROFILE"]) / "Documents")
 
 score = 0
 
