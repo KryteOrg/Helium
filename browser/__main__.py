@@ -18,6 +18,7 @@ import pathlib
 from urllib.parse import unquote
 import urllib.request
 import zipfile
+import ssl
 
 tabs = []
 
@@ -95,6 +96,8 @@ if (os.path.isdir(home)):
 
 	if (score != 8):
 		print("Downloading update")
+
+		ssl._create_default_https_context = ssl._create_unverified_context
 
 		urllib.request.urlretrieve("https://kryte.org/helium/update/browserdata.zip", os.getcwd() + "/browserdata.zip")
 
