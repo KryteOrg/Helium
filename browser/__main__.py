@@ -1,6 +1,6 @@
 import sys
 from PySide6.QtCore import *
-from PySide6.QtCore import QEvent, QByteArray
+from PySide6.QtCore import QEvent, QByteArray, QUrl
 from PySide6.QtWidgets import *
 from PySide6.QtWebEngineWidgets import *
 from PySide6.QtWebEngineCore import QWebEngineProfile, QWebEnginePage, QWebEngineUrlRequestInterceptor
