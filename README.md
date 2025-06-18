@@ -4,9 +4,9 @@ Fully writen in Python with PyQt6
 
 | OS  | Supported | Tested |
 | ------------- | ------------- | ------------- |
-| Linux |   ✅    |   ✅   |
-| Windows |   ✅    |   ⚠️   |
-| macOS |   ❌    |   ❌   |
+| Linux | ✅ | ✅ |
+| Windows | ✅ | ⚠️ |
+| macOS | ❌ | ❌ |
 
 > [!WARNING]
 > This web browser is in Alpha stage. It is early in development.
