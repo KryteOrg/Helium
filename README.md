@@ -6,7 +6,7 @@ Fully writen in Python with PyQt6
 | ------------- | ------------- | ------------- |
 | Linux | ✅ | ✅ |
 | Windows | ✅ | ⚠️ |
-| macOS | ❌ | ❌ |
+| macOS | ⚠️ | ❌ |
 
 > [!WARNING]
 > This web browser is in Alpha stage. It is early in development.
