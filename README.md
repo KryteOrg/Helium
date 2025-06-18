@@ -3,7 +3,7 @@
 Fully writen in Python with PyQt6
 
 | OS  | Supported | Tested |
-| -------------------------|
+| ------------- | ------------- | ------------- |
 | Linux |   ✅    |   ✅   |
 | Windows |   ✅    |   ⚠️   |
 | macOS |   ❌    |   ❌   |
