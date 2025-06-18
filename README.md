@@ -1,6 +1,13 @@
 ![Helium](./logo.png)
 # Light and fast web browser
 Fully writen in Python with PyQt6
+
+| OS  | Supported | Tested |
+| -------------------------|
+| Linux |   ✅    |   ✅   |
+| Windows |   ✅    |   ⚠️   |
+| macOS |   ❌    |   ❌   |
+
 > [!WARNING]
 > This web browser is in Alpha stage. It is early in development.
 > In this stage we advise you not to use it as a daily web browser.
