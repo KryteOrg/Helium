@@ -294,7 +294,6 @@ class Window(QMainWindow):
         self.tab.removeTab(index)
 
     def handleSearch(self):
-        global search
         if (self.entry.text().startswith("https://")
                 or self.entry.text().startswith("http://")):
             self.tab.currentWidget().setUrl(QUrl(self.entry.text()))
