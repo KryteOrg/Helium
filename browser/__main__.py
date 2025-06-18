@@ -155,8 +155,6 @@ class Window(QMainWindow):
         self.initUI()
 
     def initUI(self):
-        global tabs
-        global search
         self.setStyleSheet("background-color: #1E1E1E;")
         self.tab = QtWidgets.QTabWidget(self)
         self.tab.setStyleSheet("border: 0;")
