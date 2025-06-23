@@ -5,8 +5,12 @@ Fully writen in Python with PyQt6
 | OS  | Supported | Tested |
 | ------------- | ------------- | ------------- |
 | Linux | ✅ | ✅ |
-| Windows | ✅ | ⚠️ |
+| Windows | ✅ | ✅ |
 | macOS | ⚠️ | ❌ |
+  
+✅ - Yes  
+⚠️ - Unknown  
+❌ - No  
 
 > [!WARNING]
 > This web browser is in Alpha stage. It is early in development.
